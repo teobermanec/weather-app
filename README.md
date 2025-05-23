@@ -29,3 +29,5 @@ This is a simple command-line Weather App built with Python. It uses the OpenWea
 2. **Before starting the program you should replace the placeholder API in the config.py with your own API KEY**
 
 3. **To start the program, enter 'python main.py' in the terminal opened in the 'weather app' folder**
+
+4. **One city already left in the code on purpose**
