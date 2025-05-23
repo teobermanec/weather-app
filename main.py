@@ -1,4 +1,4 @@
-from weather_api import get_current_weather, get_forecast
+from weather_app import get_current_weather, get_forecast
 from utils import format_weather, format_forecast, format_grouped_forecast
 from favorites import load_favorites, add_favorite, remove_favorite
 import sys

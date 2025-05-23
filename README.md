@@ -25,3 +25,5 @@ This is a simple command-line Weather App built with Python. It uses the OpenWea
    ```bash
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
+
+2. **Before starting the program you should replace the placeholder API in the config.py with your own API KEY**
